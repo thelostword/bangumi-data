@@ -468,6 +468,10 @@
       {
         "site": "anidb",
         "id": "7656"
+      },
+      {
+        "site": "aniList",
+        "id": "8861"
       }
     ]
   },
@@ -1517,6 +1521,18 @@
       {
         "site": "bangumi",
         "id": "8994"
+      },
+      {
+        "site": "mal",
+        "id": "9562"
+      },
+      {
+        "site": "anidb",
+        "id": "7977"
+      },
+      {
+        "site": "aniList",
+        "id": "9562"
       }
     ]
   },
@@ -1623,6 +1639,10 @@
       {
         "site": "bangumi",
         "id": "8392"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/413113"
       },
       {
         "site": "mal",
@@ -1820,6 +1840,14 @@
       {
         "site": "mal",
         "id": "8481"
+      },
+      {
+        "site": "anidb",
+        "id": "7441"
+      },
+      {
+        "site": "aniList",
+        "id": "8481"
       }
     ]
   },
@@ -1994,6 +2022,18 @@
       {
         "site": "tmdb",
         "id": "tv/211879"
+      },
+      {
+        "site": "mal",
+        "id": "9518"
+      },
+      {
+        "site": "anidb",
+        "id": "7951"
+      },
+      {
+        "site": "aniList",
+        "id": "9518"
       }
     ]
   },
